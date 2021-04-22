@@ -1,0 +1,17 @@
+.main-tables-container {
+  display: flex;
+  justify-content: center;
+  width: 930px;
+  margin: 0 auto;
+}
+
+.product_cards--container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 930px;
+  margin: 0 auto;
+}
+
+.plans_cards-container--slider {
+  justify-content: center;
+}
